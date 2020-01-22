@@ -1,0 +1,19 @@
+---
+title: "Homework #1"
+author: "Jacob Baalson; GitHub: jbaalson"
+date: "1/15/2020"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+A **NBA Data Scientist** is a role in a sports organization that helps create *solutions* to help a team win using data driven analysis (<https://tech.co/news/data-scientist-basketball-phoenix-2017-04>). This job consists of collecting data on other teams to see tendencies. It also includes putting entensive reports together to help coaches create a gameplan to increase win rate. This job usually encludes you working with other data scientists as a team to increase productivity.
+![](https://i.ytimg.com/vi/MpLHMKTolVw/maxresdefault.jpg)
+
+```{r}
+version
+```
