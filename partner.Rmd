@@ -1,0 +1,4 @@
+Name: Charlie Whiting; username: chrlwhtng
+In the most recent (first) commit, my partner made all the changes to the documents. The commit ID is f33c17ffa96b1aa17082264d01080855696aa9a7
+I was able to knit their file without error. 
+Finding the commit ID wasn't as easy as I expected.
